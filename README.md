@@ -1,1 +1,1 @@
-This project will task me with builing a site using HTML # odin-recipes
+This project will task me with building a site using HTML # odin-recipes
